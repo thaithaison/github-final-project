@@ -4,7 +4,7 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author: Upkar Lidder (IBM)
+   # Author: thaithaison 
    # Additional Authors:
    # <your GitHub username>
 
